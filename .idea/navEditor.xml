@@ -29,6 +29,15 @@
                             <option name="y" value="227" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="web_url_deeplink">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>

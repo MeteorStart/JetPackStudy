@@ -35,6 +35,10 @@
         android:label="LoginFragment"
         tools:layout="@layout/fragment_register">
 
+        <deepLink
+            android:id="@+id/web_url_deeplink"
+            app:uri="www.husaynhakeem.com/path/subpath" />
+
         <argument
             android:name="EMAIL"
             android:defaultValue="2005@qq.com"

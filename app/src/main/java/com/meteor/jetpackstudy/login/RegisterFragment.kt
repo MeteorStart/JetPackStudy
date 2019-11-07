@@ -8,7 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.navArgs
-import com.meteor.jetpackstudy.MainActivity
+import com.meteor.jetpackstudy.main.MainActivity
 
 import com.meteor.jetpackstudy.R
 import kotlinx.android.synthetic.main.fragment_register.*

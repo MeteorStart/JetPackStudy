@@ -1,7 +1,8 @@
-package com.meteor.jetpackstudy
+package com.meteor.jetpackstudy.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.meteor.jetpackstudy.R
 
 class MainActivity : AppCompatActivity() {
 
